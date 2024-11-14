@@ -34,5 +34,5 @@ drf-spectacular==0.27.2  # https://github.com/tfranzel/drf-spectacular
 # ------------------------------------------------------------------------------
 mozilla_django_oidc==4.0.1 # https://github.com/mozilla/mozilla-django-oidc
 
-websockets~=13.1
+websockets~=14.1
 django-simple-history~=3.7.0
